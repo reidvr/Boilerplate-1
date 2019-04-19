@@ -1,0 +1,16 @@
+$primary: #363636;
+$secondary:	#d05723;
+$tertiary:#5c5c5c; 
+$quaternary:#a5a5a5;
+$quinary: #d8d8d8;
+
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+h1 {
+    color:$primary;
+}
+
+h2 {
+    color:$primary;
+}
